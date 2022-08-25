@@ -10,6 +10,7 @@ spec:
     repositories:
     - name: jx-node-quickstart
     - name: jx-node-quickstart2
+    - name: jx-php
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
